@@ -127,22 +127,36 @@ p {
     
 .email:hover {
     color: #e780bc;
-}   
+}  
+.project {
+    padding-top: 30px;
+} 
 .link-click {
     text-decoration: none;
     color: #141414;
     transition: 0.3s;
     font-weight: 700;
+    
 }
 .link-click:hover {
     color: #e780bc;
 }
 .footer-container {
     display: flex;
+    padding: 0 20px;
+    margin-top: 100px;
     align-items: center;
     justify-content: space-between;
+
+    background-color: #ecc7dd;
+}
+.mygithub {
+    display: flex;
+    align-items: center;
+    gap: 20px;
 }
 #Layer_1 {
     width: 150px;
     height: 150px;
+    
 }
