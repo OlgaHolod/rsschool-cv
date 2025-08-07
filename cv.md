@@ -25,13 +25,13 @@ Hi, I am a beginner front-end developer from Minsk. I like programming. It is ex
 * Customer Service Specialist
 * HTML/HTML5, CSS3/SCSS, JS basic
 * Figma, Git
-* English - A2 (Pre-Intermediate)
 
 -------------
 ### **JOB EXPERIENCE**
 2021-2022
 
 LLC SINTEN GROUP
+
 Customer Service Specialist
 
 -------------
